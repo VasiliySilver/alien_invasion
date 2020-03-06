@@ -1,2 +1,2 @@
 # alien_invasion
-The game Eric Mettiz
+Eric Mettiz game
